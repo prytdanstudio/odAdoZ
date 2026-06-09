@@ -216,7 +216,7 @@ export const company: CompanyData = {
   ],
   ctaLinks: {
     quote: "#wycena",
-    phone: "tel:+48000000000",
+    phone: "tel:+48507899942",
     email: "mailto:kontakt@odadoz.pl?subject=Pro%C5%9Bba%20o%20bezp%C5%82atn%C4%85%20wycen%C4%99%20remontu"
   },
   pricing: {
